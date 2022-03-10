@@ -1,7 +1,7 @@
 # Hey guys, Am here!
 
 
-I'm ``Aman``, preferred to be called as ``Amity`` and in short-form, ``Am``.<br>
+I'm ``Aman`` *(not "A man", but still a guy)*, preferred to be called as ``Amity`` and in short-form, ``Am``.<br>
 I'm studying in the digital track of my *totally prestigious secondary school*.
 
 ## The things about me
