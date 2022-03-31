@@ -2,7 +2,7 @@
 
 <img src="./assets/amityblush.gif" style="height:128px;">
 
-I'm ``Aman`` (phonetic: ɑmɑn) *(not "A man", but still a guy nonetheless)*, preferred to be called as ``Amity`` and in short-form, ``Am``.<br>
+I'm ``Amity`` and in short-form, ``Am``.<br>
 I'm studying in the digital track of my *totally prestigious secondary school*. Currently in my second year.
 
 ## The things about me
