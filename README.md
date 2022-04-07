@@ -2,7 +2,7 @@
 
 <img src="./assets/amityblush.gif" style="height:128px;">
 
-I'm ``Amity`` and in short-form, ``Am``.<br>
+I'm ``Amity`` (my alias) and in short-form, ``Am``.<br>
 I'm studying in the digital track of my *totally prestigious secondary school*. Currently in my second year.
 
 ## The things about me
