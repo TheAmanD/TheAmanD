@@ -1,6 +1,6 @@
 # Hey guys, Am here!
 
-<img src="./assets/amityblush.gif" style="height:128px;">
+<img src="./assets/amityblush.gif" style="height:128px;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theamityd&layout=compact&langs_count=10&show_icons=true&bg_color=60,BCD0E0,CFBAE1&title_color=9b1a80&text_color=000000&&border_color=ffffff&border-radius_8px" align="right">
 
 I'm ``Amity`` (my alias) and in short-form, ``Am``.<br>
 I'm studying in the digital track of my *totally prestigious secondary school*. Currently in my second year.
@@ -14,8 +14,6 @@ I'm currently learning about web development, mainly HTML, CSS, PHP and others,
 but I might start learning on another programming language and make a game out of it, I guess. ``¯\_(ツ)_/¯``
 
 Fav character's Amity Blight, hence mah name!
-
-##
 
 [![forthebadge](https://forthebadge.com/images/badges/kinda-sfw.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/just-plain-nasty.svg)](https://forthebadge.com)
