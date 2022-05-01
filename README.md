@@ -10,8 +10,9 @@ I'm studying in the digital track of my *totally prestigious secondary school*. 
 I'm just your average burnt-out gifted kid from your secondary school.
 That guy who gets stressed for making **Scratch** games.
 
-I'm currently learning about web development, mainly HTML, CSS, PHP and others,
-but I might start learning on another programming language and make a game out of it, I guess. ``¯\_(ツ)_/¯``
+I'm currently learning about web development, mainly HTML, CSS, PHP and others,  
+but I might start learning on another programming language and make a game out of it, I guess. ``¯\_(ツ)_/¯``  
+And yes, I can't live without Stack Overflow. /lh
 
 Fav character's Amity Blight, hence mah name!
 
