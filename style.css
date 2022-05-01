@@ -5,7 +5,7 @@ html {
 
 body {
 	background: linear-gradient(60deg, #5299CF 20%, #9863BF 80%);
-	max-width: 1024px;
+	max-width: 1366px;
 	min-height: 768px;
 	margin: auto;
 	margin-top: 16px;
@@ -21,12 +21,41 @@ body {
 	justify-content: center;
 }
 
-.title img {
+/* .title img {
 	height: 96px;
 	margin-top: 32px;
 	margin-right: 16px;
 	border: 2px solid #C5C6E0;
 	border-radius: 72px;
+} */
+
+.titlebutton {
+	width: 80px;
+	height: 80px;
+	background: linear-gradient(60deg, #BCD0E0 20%, #CFBAE1 80%);
+	margin-top: 40px;
+	margin-right: 16px;
+	border: 2px solid #C5C6E0;
+	border-radius: 72px;
+}
+
+.titlebutton img {
+	margin-right: 16px;
+	padding: 8px 0px 0px 0px;
+	height: 64px;
+}
+
+.titlebutton {
+	text-decoration: none;
+	transition: all 200ms ease;
+	transition-duration: 200ms;
+}
+
+.titlebutton:hover {
+	transform: scale(1.25);
+	-webkit-box-shadow: 0px 0px 16px 4px rgba(255, 255, 255, 0.5);
+    -moz-box-shadow: 0px 0px 16px 4px rgba(255, 255, 255, 0.5);
+    box-shadow: 0px 0px 16px 4px rgba(255, 255, 255, 0.5);
 }
 
 .title h1 {
@@ -41,7 +70,7 @@ body {
 
 .inner-things {
 	background: linear-gradient(60deg, #BCD0E0 20%, #CFBAE1 80%);
-	max-width: 900px;
+	max-width: 1280px;
 	min-height: 540px;
 	margin: auto;
 	margin-top: 16px;
@@ -70,7 +99,7 @@ body {
 
 .inner-inner-text {
 	background: white;
-	max-width: 860px;
+	max-width: 1152px;
 	min-height: 64px;
 	margin: auto;
 	margin-top: 16px;
