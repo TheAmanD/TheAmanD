@@ -5,7 +5,7 @@
 I'm ``Amity`` (my alias) and in short-form, ``Am``.<br>
 I'm studying in the digital track of my *totally prestigious secondary school*. Currently in my second year.
 
-## The things about me
+## The things about me <img src="assets/family-guy-css.gif" align="right" height="256px">
 
 I'm just your average burnt-out gifted kid from your secondary school.
 That guy who gets stressed for making **Scratch** games.
