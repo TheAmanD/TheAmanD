@@ -15,7 +15,7 @@ And yes, I can't live without Stack Overflow. /lh
 
 Fav character's Amity Blight, hence mah name!
 
-https://theamityd.github.io/
+https://TheAmityD.github.io/
 
 ##
 
