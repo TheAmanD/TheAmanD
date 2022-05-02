@@ -2,8 +2,9 @@
 
 <img src="./assets/amityblush.gif" align="left" height="96px">
 
-I'm ``Amity`` (my alias) and in short-form, ``Am``.<br>
-I'm studying in the digital track of my *totally prestigious secondary school*. Currently in my second year.
+I'm ``Amity`` (my alias) and in short-form, ``Am``.  
+I'm studying in the digital track of *Kolej GENIUS@Pintar Negara*. Currently in my second year.  
+I wonder if my school has, or will have a GitHub org...
 
 ## The things about me <img src="assets/family-guy-css.gif" align="right" height="256px">
 
@@ -15,7 +16,7 @@ And yes, I can't live without Stack Overflow. /lh
 
 Fav character's Amity Blight, hence mah name!
 
-https://TheAmityD.github.io/
+https://TheAmityD.github.io/  
 
 ##
 
