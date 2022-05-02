@@ -4,7 +4,7 @@
 
 I'm ``Amity`` (my alias) and in short-form, ``Am``.  
 I'm studying in the digital track of [*Kolej GENIUS@Pintar Negara*](https://www.ukm.my/geniuspintar). Currently in my second year.  
-I wonder if my school has, or will have a GitHub org...
+~~I wonder if my school has, or will have a GitHub org...~~ It exists... as a [user](https://github.com/GeniusPintar).
 
 ## The things about me <img src="assets/family-guy-css.gif" align="right" height="256px">
 
