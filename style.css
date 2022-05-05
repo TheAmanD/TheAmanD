@@ -24,6 +24,18 @@ a {
 	box-shadow: 0 0 20px rgba(0,0,0,0.9) inset;
 }
 
+.toosmall {
+	font-size: 24px;
+	color: black;
+	display: none;
+}
+
+@media (max-width: 799px) {
+	.toosmall {
+		display: flex;
+	}
+}
+
 .anigif {
 	-webkit-box-shadow: 0px 0px 16px 4px #85586F80;
     -moz-box-shadow: 0px 0px 16px 4px #85586F80;
