@@ -1,48 +1,98 @@
 html {
+	scroll-behavior: smooth;
 	font-family: basic-sans, sans-serif;
-	background-color: #e0c8c2;
 }
 
-.sempit {
-	max-width: 768px;
+body {
+
+}
+
+p {
+	font-size: 20px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.vignette {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	box-shadow: 0 0 20px rgba(0,0,0,0.9) inset;
+}
+
+.anigif {
+	-webkit-box-shadow: 0px 0px 16px 4px #85586F80;
+    -moz-box-shadow: 0px 0px 16px 4px #85586F80;
+    box-shadow: 0px 0px 16px 4px #85586F80;
+}
+
+.section1 {
+	text-align: center;
+	background-color: #F8ECD1;
+	padding: 24px;
+}
+
+.downbutton1 {
+	background: linear-gradient(80deg, #EB5353 20%, #F9D923 80%);
+	max-width: 480px;
+	min-height: 64px;
 	margin: auto;
+	border: 2px solid #DEB6AB;
+	border-radius: 32px;
+	-webkit-box-shadow: 0px 0px 16px 4px #85586F80;
+    -moz-box-shadow: 0px 0px 16px 4px #85586F80;
+    box-shadow: 0px 0px 16px 4px #85586F80;
+	transition: all 300ms ease;
+	transition-duration: 300ms;
 }
 
-.title {
-	text-align: center;
+.downbutton1:hover {
+	transform: scale(1.25);
+	-webkit-box-shadow: 0px 0px 16px 4px #AC7D8880;
+    -moz-box-shadow: 0px 0px 16px 4px #AC7D8880;
+    box-shadow: 0px 0px 16px 4px #AC7D8880;
 }
 
-.title h1 {
-	font-size: 32px;
+.downbutton1 p {
+	text-decoration: none;
+	color: #EEEEEE;
+	font-weight: bold;
+	font-size: 26px;
+}
+
+@media (orientation: portrait) {
+	.section1 {
+		display: none;
+	}
+}
+
+.section2 {
+	background: linear-gradient(300deg, #FBF8F1 40%, #F7ECDE 100%);
+	display: flex;
+	justify-content: center;
+	padding: 24px;
+}
+
+.s21 img {
+	height: 256px;
+	border: 5px solid black;
+	border-radius: 100%;
+}
+
+.s22 {
+	margin-left: 48px;
+	max-width: 540px;
+}
+
+.s22 h1 {
+	font-size: 36px;
 	font-weight: bolder;
-	margin: 0;
 }
 
-.title p {
-	font-size: 16px;
-	font-weight: bolder;
-	margin: 0;
-}
+.s22 p {
 
-.bayo {
-	text-align: center;
-}
-
-.bayo h1 {
-	font-size: 32px;
-	font-weight: bolder;
-	margin: 8px;
-}
-
-.bayo p {
-	font-size: 20px;
-	font-weight: normal;
-	margin: 8px;
-}
-
-.bayo li {
-	font-size: 20px;
-	font-weight: normal;
-	margin: 8px;
-	text-align: left;
 }
