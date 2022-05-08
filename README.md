@@ -1,4 +1,4 @@
-# Hey guys, Am here!
+# Hey guys, Am here! 
 
 <img src="./assets/amityblush.gif" align="left" height="96px">
 
@@ -18,9 +18,8 @@ Fav character's Amity Blight, hence mah name!
 
 https://TheAmityD.github.io/  
 
-##
+## My Stats and Stuff
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theamityd&layout=compact&langs_count=10&show_icons=true&bg_color=60,BCD0E0,CFBAE1&title_color=9b1a80&text_color=000000&&border_color=ffffff&border-radius_8px">
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=TheAmityD&theme=radical&date_format=j%20M%5B%20Y%5D" width="384px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theamityd&layout=compact&langs_count=10&show_icons=true&theme=synthwave&border_color=e4e2e2&border-radius_8px" width="384px"></p>
 
-[![forthebadge](https://forthebadge.com/images/badges/kinda-sfw.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/just-plain-nasty.svg)](https://forthebadge.com)
+<p align="center"><img src="https://forthebadge.com/images/badges/kinda-sfw.svg"><img src="https://forthebadge.com/images/badges/just-plain-nasty.svg"></p>
