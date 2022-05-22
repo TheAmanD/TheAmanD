@@ -1,12 +1,12 @@
 # Hey guys, Am here! 
 
-<img src="./assets/amityblush.gif" align="left" height="96px">
+<img align="right" width="100" height="100" src="assets/amityblush.gif" alt="GitHub please fix gifs not aligning">
 
 I'm ``Amity`` (my alias) and in short-form, ``Am``.  
 I'm studying in the digital track of [*Kolej GENIUS@Pintar Negara*](https://www.ukm.my/geniuspintar). Currently in my second year.  
 ~~I wonder if my school has, or will have a GitHub org...~~ It exists... as a [user](https://github.com/GeniusPintar).
 
-## The things about me <img src="assets/family-guy-css.gif" align="right" height="256px">
+## The things about me
 
 I'm just your average burnt-out gifted kid from your secondary school.
 That guy who gets stressed for making **Scratch** games.
