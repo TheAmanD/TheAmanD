@@ -2,7 +2,7 @@
 
 <img align="right" width="100" height="100" src="assets/amityblush.gif" alt="GitHub please fix gifs not aligning">
 
-I'm ``Amity`` (my alias) and in short-form, ``Am``.  
+I'm ``Amity`` (my alias) and in short-form, ``Am``. Pronoun's ``he/him``.  
 I'm studying in the digital track of [*Kolej GENIUS@Pintar Negara*](https://www.ukm.my/geniuspintar). Currently in my second year.  
 ~~I wonder if my school has, or will have a GitHub org...~~ It exists... as a [user](https://github.com/GeniusPintar).
 
