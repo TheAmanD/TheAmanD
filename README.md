@@ -14,9 +14,9 @@ That guy who gets stressed for making **Scratch** games.
 I learned (and barely can program using) programming languages through two ways:
 |School|Self-taught|
 |-|-|
-|HTML|JavaScript|
+|HTML|JS / TS|
 |CSS|Sass/SCSS|
-|PHP/SQL|TypeScript|
+|PHP/SQL|Ruby|
 
 
 Fav character's Amity Blight, hence mah name!
