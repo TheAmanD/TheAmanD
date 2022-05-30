@@ -16,7 +16,7 @@ I learned (and barely can program using) programming languages through two ways:
 |-|-|
 |HTML|JS / TS|
 |CSS|Sass/SCSS|
-|PHP/SQL|Ruby|
+|PHP/SQL|Some other language idk|
 
 
 Fav character's Amity Blight, hence mah name!
