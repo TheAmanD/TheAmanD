@@ -22,7 +22,7 @@ I learned (and barely can program using) programming languages through two ways:
 Fav character's Amity Blight, hence mah name!
 
 https://TheAmityD.github.io/  
-Coming soon: https://TheAmityD.notion.so (docs & stuff)  
+Coming soon: https://TheAmityD.notion.site (docs & stuff)  
 
 ## My Stats and Stuff
 
