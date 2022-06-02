@@ -21,12 +21,13 @@ I learned (and barely can program using) programming languages through two ways:
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=TheAmityD&theme=radical&date_format=j%20M%5B%20Y%5D" width="384px" align="right">  
 
-<img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="Visual Studio Code... with a crap ton of extensions." width="48px"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.png" alt="WebStorm logo." width="48px"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PhpStorm_icon.png" alt="PhpStorm logo." width="48px"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/DataGrip_icon.png" alt="DataGrip logo." width="48px"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" alt="PyCharm logo." width="48px"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" alt="IntelliJ IDEA logo." width="48px"><img src="/assets/gitkraken.png" alt="GitKraken logo." width="48px">
+<img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="Visual Studio Code... with a crap ton of extensions." width="48px"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.png" alt="WebStorm logo." width="48px"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PhpStorm_icon.png" alt="PhpStorm logo." width="48px"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/DataGrip_icon.png" alt="DataGrip logo." width="48px"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" alt="PyCharm logo." width="48px"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" alt="IntelliJ IDEA logo." width="48px"><img src="https://1v5ymx3zt3y73fq5gy23rtnc-wpengine.netdna-ssl.com/wp-content/uploads//2021/06/gitkraken-keif-mono-teal-sq.svg" alt="GitKraken logo." width="48px">  
+
 
 Fav character's Amity Blight, hence mah name!
 
 https://TheAmityD.github.io/  
 Coming soon: https://TheAmityD.notion.site (docs & stuff)  
 
-<p align="center"><img src="https://gpvc.arturio.dev/TheAmityD"></p>  
-<p align="center"><img src="https://forthebadge.com/images/badges/kinda-sfw.svg"><img src="https://forthebadge.com/images/badges/just-plain-nasty.svg"></p>
+<p align="right"><img src="https://gpvc.arturio.dev/TheAmityD"></p>  
+<p align="right"><img src="https://forthebadge.com/images/badges/kinda-sfw.svg"><img src="https://forthebadge.com/images/badges/just-plain-nasty.svg"></p>
