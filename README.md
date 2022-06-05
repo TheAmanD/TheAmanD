@@ -17,7 +17,7 @@ I learned (and barely can program using) programming languages through two ways:
 |-|-|
 |HTML|JS / TS|
 |CSS|Sass/SCSS|
-|PHP/SQL|Some other language idk|
+|PHP/SQL|Some other languages idk|
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=TheAmityD&theme=radical&date_format=j%20M%5B%20Y%5D" width="384px" align="right">  
 
