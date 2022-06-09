@@ -27,7 +27,7 @@ I learned (and barely can program using) programming languages through two ways:
 Fav character's Amity Blight, hence mah name!
 
 https://TheAmityD.github.io/  
-Coming soon: https://TheAmityD.vercel.app (docs & stuff)  
+Coming soon: Vercel (docs & stuff)  
 
 <p align="right"><img src="https://gpvc.arturio.dev/TheAmityD"></p>  
 <p align="right"><img src="https://forthebadge.com/images/badges/kinda-sfw.svg"><img src="https://forthebadge.com/images/badges/just-plain-nasty.svg"></p>
