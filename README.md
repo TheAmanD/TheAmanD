@@ -27,6 +27,7 @@ I can't learn frameworks rn, only vanilla web dev moment
 Fav character's Amity Blight (not in pfp), hence mah name!
 
 https://TheAmityD.github.io/ (will put domain, maybe)  
+http://members.vistaserv.net/amityd (1990s style 8] )  
 Coming soon: Vercel (docs & stuff?)  
 
 <p align="right"><img src="https://gpvc.arturio.dev/TheAmityD"></p>  
