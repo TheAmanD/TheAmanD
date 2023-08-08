@@ -27,9 +27,6 @@ I can't learn frameworks rn, only vanilla web dev moment
 
 Fav character's Amity Blight (not in pfp), hence mah name!
 
-https://TheAmityD.github.io/ (will put domain, maybe)  
+~~https://TheAmityD.github.io/ (will put domain, maybe)~~ will make new one  
 https://amityd.neocities.org (classic style 8] )  
-Coming soon: Vercel (docs & stuff?)  
-
-<p align="right"><img src="https://gpvc.arturio.dev/TheAmityD"></p>  
-<p align="right"><img src="https://forthebadge.com/images/badges/kinda-sfw.svg"><img src="https://forthebadge.com/images/badges/just-plain-nasty.svg"></p>
+Coming soon: Vercel (docs & stuff?) 
