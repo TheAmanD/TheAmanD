@@ -3,8 +3,7 @@
 <img align="right" width="100" height="100" src="assets/amityblush.gif" alt="GitHub please fix gifs not aligning">
 
 I'm ``Amity`` (my alias) and in short-form, ``Am``. Pronoun's ``he/him``. This year, 16M.  
-I'm studying in the digital track of [*Kolej GENIUS@Pintar Negara*](https://www.ukm.my/geniuspintar). Currently in my third year.  
-~~I wonder if my school has, or will have a GitHub org...~~ It exists... as a [user](https://github.com/GeniusPintar).
+I'm studying in the digital track of [*Kolej PERMATA@Pintar Negara*](https://www.ukm.my/permatapintar). Currently in my third year.  
 
 ## The things about me
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theamityd&layout=compact&langs_count=10&show_icons=true&theme=synthwave&border_color=e4e2e2&border-radius_8px" width="384px" align="right">
